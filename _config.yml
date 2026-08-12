@@ -22,11 +22,18 @@ author: Daniel Deandresi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  Blog: "index.html"
+  Links:
+      - Medium: "https://medium.com/@hacknmate"
+      - Twitter: "https://twitter.com/hacknmate"
+      - Github: "https://github.com/hacknmate"
+      - Youtube: "https://www.youtube.com/hacknmate"
+      - TryHackMe: "https://tryhackme.com/p/hacknmate"
+      - HackerOne: "https://hackerone.com/hack-n-mate"
+    # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
 ################
 # --- Logo --- #
 ################
