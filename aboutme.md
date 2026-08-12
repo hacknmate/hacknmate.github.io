@@ -19,6 +19,6 @@ I really enjoy mentoring and teaching people of all levels and backgrounds. If y
  - Palo Alto Networks ACE: Accredited Configuration Engineer (PAN-OS 7.0). Certified on January 2017
  
 ### Publications
- - Published author with blog and whitepaper features in Pentest Magazine (ISSN: 2084-1117)
+ - Published Whitepaper features in Pentest Magazine (ISSN: 2084-1117)
  - Multiple Blog articles about labs, CTFs and walkthroughs
 
