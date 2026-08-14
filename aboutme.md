@@ -11,14 +11,15 @@ I really enjoy mentoring and teaching people of all levels and backgrounds. If y
 
 
 ### Certifications and Awards
- - Top 10 in DoD CCDC, NASA/DoD VDP Hall of Fame
+ - NASA/DoD VDP Hall of Fame
+ - 1st Place in SANS 504 Capture The Flag (CTF)
+ - Top 10 in the National DoD CCDC (Department of Defense/War Collegiate Cyber Defense Competition)
  - Top 1% on TryHackMe and Top 50 on HackTheBox
- - 1st Place in SANS 504 CTF
- - Fluent in English and Spanish. Intermediate Italian
  - Oracle Cloud Infrastructure (OCI) Foundations Associate. Certified on September 2025
  - Palo Alto Networks ACE: Accredited Configuration Engineer (PAN-OS 7.0). Certified on January 2017
+ - Fluent in English and Spanish. Intermediate Italian
  
 ### Publications
  - Published Whitepaper features in Pentest Magazine (ISSN: 2084-1117)
- - Multiple Blog articles about labs, CTFs and walkthroughs
+ - Multiple Blog articles including Labs, CTFs and walkthroughs
 
