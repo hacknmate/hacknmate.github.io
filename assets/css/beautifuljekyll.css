@@ -32,7 +32,7 @@ html {
 
 body {
   font-family: var(--body-font);
-  font-size: 1.125rem;
+  font-size: 1rem;
   color: var(--text-col);
   position: relative;
   background-color: var(--page-col);
@@ -175,7 +175,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 .navbar-custom .navbar-brand-logo {
