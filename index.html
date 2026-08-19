@@ -3,12 +3,58 @@ layout: home
 title: Life of a Pentester
 subtitle: Blog Articles, CTF write-ups and Walkthroughs
 ---
-<h2>Recent Posts</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="project-grid">
+
+  <!-- Row 1: Project 1 -->
+  <a href="https://www.skool.com/" class="project-card" target="_blank">
+    <div class="project-image-wrapper">
+      <img src="assets/img/skool-logo.png" alt="Skool" class="project-image">
+      <div class="project-overlay">
+        <div class="project-info">
+          <h3>Skool</h3>
+          <p>Come learn with me about Cybersecurity</p>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <!-- Row 1: Project 2 -->
+  <a href="https://medium.com/@hacknmate" class="project-card" target="_blank">
+    <div class="project-image-wrapper">
+      <img src="assets/img/medium.gif" alt="Blog" class="project-image">
+      <div class="project-overlay">
+        <div class="project-info">
+          <h3>Life of a Pentester - Blog</h3>
+          <p>Blog Articles, CTF write-ups and Walkthroughs</p>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <!-- Row 2: Project 3 -->
+  <a href="https://github.com/hacknmate" class="project-card" target="_blank">
+    <div class="project-image-wrapper">
+      <img src="assets/img/github.webp" alt="Project 3 Title" class="project-image">
+      <div class="project-overlay">
+        <div class="project-info">
+          <h3>Project Three Title</h3>
+          <p>Short description of what you built and the tech stack used.</p>
+        </div>
+      </div>
+    </div>
+  </a>
+
+  <!-- Row 2: Project 4 -->
+  <a href="https://tryhackme.com/p/hacknmate" class="project-card" target="_blank">
+    <div class="project-image-wrapper">
+      <img src="assets/img/thm.png" alt="THM" class="project-image">
+      <div class="project-overlay">
+        <div class="project-info">
+          <h3>TryHackMe</h3>
+          <p>My TryHackMe Labs & CTFs Progress</p>
+        </div>
+      </div>
+    </div>
+  </a>
+
+</div>
